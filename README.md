@@ -1,6 +1,6 @@
 ## Hi, I'm William Rizzo
 
-Cloud-native infrastructure | Kubernetes virtualization | Edge and AI platforms | Open source
+Cloud native infrastructure | Kubernetes virtualization | Edge and AI platforms | Open source
 
 Global Field CTO at [Mirantis](https://www.mirantis.com)
 [CNCF Ambassador](https://www.cncf.io/people/ambassadors/) | [Linkerd Ambassador](https://linkerd.io/community/ambassadors/) | [Kairos Maintainer](https://github.com/kairos-io/kairos)
