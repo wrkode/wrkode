@@ -25,7 +25,7 @@ My work sits where platform engineering, virtualization, cluster lifecycle, and 
 
 * **Immutable edge and bare metal**
 
-  Maintaining [Kairos](https://github.com/kairos-io/kairos), contributing to its Cluster API integration, and developing [Beskar7](https://github.com/projectbeskar/beskar7) for Kubernetes-native bare-metal lifecycle management.
+  Maintaining [Kairos](https://github.com/kairos-io/kairos), contributing to its Cluster API integration, and developing [Beskar7](https://github.com/beskar7/beskar7) for Kubernetes-native bare-metal lifecycle management.
 
 * **AI and GPU platforms**
 
@@ -61,7 +61,7 @@ My work sits where platform engineering, virtualization, cluster lifecycle, and 
 | [vQuasar](https://github.com/vquasar/vquasar)                                           | Cloud Hypervisor fleet management, networking, scheduling, and live migration |
 | [VirtRigaud](https://github.com/projectbeskar/virtrigaud)                               | Unified VM management and migration across multiple hypervisors               |
 | [Cluster API Provider Kairos](https://github.com/kairos-io/cluster-api-provider-kairos) | Cluster API bootstrap and control-plane integration for Kairos                |
-| [Beskar7](https://github.com/projectbeskar/beskar7)                                     | Kubernetes-native bare-metal provisioning                                     |
+| [Beskar7](https://github.com/beskar7/beskar7)                                           | Kubernetes-native bare-metal provisioning                                     |
 
 ### Connect
 
